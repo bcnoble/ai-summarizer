@@ -8,7 +8,7 @@ const Demo = () => {
   });
 
   const handleSubmit = async (e) => {
-    alert(Submitted);
+    alert("Submitted");
   };
   return (
     <section className="mt-16 w-full max-w-xl">
